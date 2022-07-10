@@ -1,0 +1,66 @@
+[submodule "firstLab"]
+	path = firstLab
+	url = https://bitbucket.org/kamixtrash/firstlab/src/master/
+[submodule "secondLab"]
+	path = secondLab
+	url = https://bitbucket.org/kamixtrash/secondlab/src/master/
+[submodule "thirdLab"]
+	path = thirdLab
+	url = https://bitbucket.org/kamixtrash/thirdlab/src/master/
+[submodule "fourthLab"]
+	path = fourthLab
+	url = https://bitbucket.org/kamixtrash/fourthlab/src/master/
+[submodule "fifthLab"]
+	path = fifthLab
+	url = https://bitbucket.org/kamixtrash/fifthlab/src/master/
+[submodule "sixthLab"]
+	path = sixthLab
+	url = https://bitbucket.org/kamixtrash/sixthlab/src/master/
+[submodule "seventhLab"]
+	path = seventhLab
+	url = https://bitbucket.org/kamixtrash/seventhlab/src/master/
+[submodule "eighthLab"]
+	path = eighthLab
+	url = https://bitbucket.org/kamixtrash/eighthlab/src/master/
+[submodule "ninthLab"]
+	path = ninthLab
+	url = https://bitbucket.org/nintthlab/ninthlab/src/master/
+[submodule "tenthLab"]
+	path = tenthLab
+	url = https://bitbucket.org/nintthlab/tenthlab/src/master/
+[submodule "eleventhAndTwelfthLab"]
+	path = eleventhAndTwelfthLab
+	url = https://bitbucket.org/nintthlab/eleventhandtwelfthlab/src/master/
+[submodule "thirteenthLab"]
+	path = thirteenthLab
+	url = https://bitbucket.org/nintthlab/thirteenthlab/src/master/
+[submodule "fourteenthLab"]
+	path = fourteenthLab
+	url = https://bitbucket.org/nintthlab/fourteenthlab/src/master/
+[submodule "fifteenthLab"]
+	path = fifteenthLab
+	url = https://bitbucket.org/nintthlab/fifteenthlab/src/master/
+[submodule "sixteenthLab"]
+	path = sixteenthLab
+	url = https://bitbucket.org/nintthlab/sixteenthlab/src/master/
+[submodule "seventeenthLab"]
+	path = seventeenthLab
+	url = https://bitbucket.org/nintthlab/seventeenthlab/src/master/
+[submodule "eighteenthLab"]
+	path = eighteenthLab
+	url = https://bitbucket.org/nintthlab/eighteenthlab/src/master/
+[submodule "nineteenthLab"]
+	path = nineteenthLab
+	url = https://bitbucket.org/nintthlab/nineteenthlab/src/master/
+[submodule "twentiethLab"]
+	path = twentiethLab
+	url = https://bitbucket.org/nintthlab/twentiethlab/src/master/
+[submodule "twentyFirstLab"]
+	path = twentyFirstLab
+	url = https://bitbucket.org/nintthlab/twentyfirstlab/src/master/
+[submodule "twentySecondLab"]
+	path = twentySecondLab
+	url = https://bitbucket.org/nintthlab/twentysecondlab/src/master/
+[submodule "twentyThirdLab"]
+	path = twentyThirdLab
+	url = https://bitbucket.org/nintthlab/twentythirdlab/src/master/
