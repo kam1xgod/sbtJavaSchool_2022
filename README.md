@@ -24,29 +24,29 @@ Actually, I was dreaming about getting a job after completing all lectures, home
 
 NOTE: 💤 emoji means that I haven't done this tasks or not completed them after requested changes, but I actually know how to do them. Basically, at the of education process I was exhausted and disappointed. And ⏳ emoji means that I still haven't got any feedback about my PR.
 
-- [First](/firstLab) - Introduction and some theory about Java and Git. ⏳ - I've got message that everything is okay, but haven't done PR.
-- [Second](/secondLab) - Main Java classes and packages. ✔️ 
-- [Third](/thirdLab) - Java Collections framework. ✔️
-- [Fourth](/fourthLab) - Generics. ✔️
-- [Fifth](/fifthLab) - Reflection, Proxy, Annotations. ✔️
-- [Sixth](/sixthLab) - Exception handling. ✔️
-- [Seventh](/seventhLab) - Class loaders. ✔️
-- [Eighth](/eighthLab) - Module, Build tools, Testing. ✔️
-- [Ninth](/ninthLab) - Serialization. ⏳
-- [Tenth](/tenthLab) - Lambda & Stream API. ✔️
-- [Eleventh & Twelfth](/eleventhAndTwelfthLab) - Multithreading. ✔️
-- [Thirteenth](/thirteenthLab) - Java Memory Model. ✔️
-- [Fourteenth](/fourteenthLab) - java.util.concurrent package. 
+- [First](https://bitbucket.org/kamixtrash/firstlab/src/master/) - Introduction and some theory about Java and Git. ⏳ - I've got message that everything is okay, but haven't done PR.
+- [Second](https://bitbucket.org/kamixtrash/secondlab/src/master/) - Main Java classes and packages. ✔️ 
+- [Third](https://bitbucket.org/kamixtrash/thirdlab/src/master/) - Java Collections framework. ✔️
+- [Fourth](https://bitbucket.org/kamixtrash/fourthlab/src/master/) - Generics. ✔️
+- [Fifth](https://bitbucket.org/kamixtrash/fifthlab/src/master/) - Reflection, Proxy, Annotations. ✔️
+- [Sixth](https://bitbucket.org/kamixtrash/sixthlab/src/master/) - Exception handling. ✔️
+- [Seventh](https://bitbucket.org/kamixtrash/seventhlab/src/master/) - Class loaders. ✔️
+- [Eighth](https://bitbucket.org/kamixtrash/eighthlab/src/master/) - Module, Build tools, Testing. ✔️
+- [Ninth](https://bitbucket.org/kamixtrash/ninthlab/src/master/) - Serialization. ⏳
+- [Tenth](https://bitbucket.org/kamixtrash/tenthlab/src/master/) - Lambda & Stream API. ✔️
+- [Eleventh & Twelfth](https://bitbucket.org/kamixtrash/eleventhandtwelfthlab/src/master/) - Multithreading. ✔️
+- [Thirteenth](https://bitbucket.org/kamixtrash/thirteenthlab/src/master/) - Java Memory Model. ✔️
+- [Fourteenth](https://bitbucket.org/kamixtrash/fourteenthlab/src/master/) - java.util.concurrent package. 
 - [Twenty fourth](#tasks) - Servlet API, App server, Spring MVC. 💤
-- [Fifteenth](/fifreenthLab) - Sockets. ✔️
-- [Sixteenth](/sixteenthLab) - JVM, JIT, GC. ✔️
-- [Seventeenth](/seventeenthLab) - Good code. ✔️
-- [Eighteenth](/eighteenthLab) - GoF patterns #1. ✔️
-- [Nineteenth](/ninteenthLab) - GoF patterns #2. ✔️
-- [Twentieth](/twentiethLab) - CI, CD, Development process, methodology. ✔️
-- [Twenty first](/twentyFirstLab) - JDBC. ✔️
-- [Twenty second](/twentySecondLab) - Spring framework. ✔️
-- [Twenty third](/twentyFirstLab) - ORM, Spring Hibernate. ✔️
+- [Fifteenth](https://bitbucket.org/kamixtrash/fifteenthlab/src/master/) - Sockets. ✔️
+- [Sixteenth](https://bitbucket.org/kamixtrash/sixteenthlab/src/master/) - JVM, JIT, GC. ✔️
+- [Seventeenth](https://bitbucket.org/kamixtrash/seventhlab/src/master/) - Good code. ✔️
+- [Eighteenth](https://bitbucket.org/kamixtrash/eighteenthlab/src/master/) - GoF patterns #1. ✔️
+- [Nineteenth](https://bitbucket.org/kamixtrash/nineteenthlab/src/master/) - GoF patterns #2. ✔️
+- [Twentieth](https://bitbucket.org/kamixtrash/twentiethlab/src/master/) - CI, CD, Development process, methodology. ✔️
+- [Twenty first](https://bitbucket.org/kamixtrash/twentyfirstlab/src/master/) - JDBC. ✔️
+- [Twenty second](https://bitbucket.org/kamixtrash/twentysecondlab/src/master/) - Spring framework. ✔️
+- [Twenty third](https://bitbucket.org/kamixtrash/twentythirdlab/src/master/) - ORM, Spring Hibernate. ✔️
 - [Twenty fourth](#tasks) - Servlet API, App server, Spring MVC. 💤
 - [Twenty fifth](#tasks) - UI, HTML, JS. 💤
 - [Twenty sixth](#tasks) - React JS. 💤
